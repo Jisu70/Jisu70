@@ -2,8 +2,6 @@
 <h3 align="center">An Enthusiastic Backend - Developer</h3>
 <img src="https://komarev.com/ghpvc/?username=jisu70&label=Profile%20views&color=0e75b6&style=flat" alt="jisu70" />
 
-- 🔭 I’m currently working on [ My Portfolio ](https://sudiptas-portfolio.onrender.com/)
-
 - 🌱 I’m currently learning **Core Node Js**
 
 - 💬 Ask me about **JavaScript,Node.Js,API,Backend-development, SQL & noSQL**
